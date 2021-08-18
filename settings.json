@@ -7,7 +7,7 @@
   "editor.minimap.enabled": false,
   "prettier.jsxSingleQuote": true,
   "prettier.arrowParens": "avoid",
-  "prettier.semi": false,
+  "prettier.semi": true,
   "prettier.singleQuote": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.formatOnPaste": true,
